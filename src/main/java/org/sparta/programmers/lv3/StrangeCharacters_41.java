@@ -1,6 +1,6 @@
 package org.sparta.programmers.lv3;
 
-public class StrangeCharacters {
+public class StrangeCharacters_41 {
     public static void main(String[] args) {
         class Solution {
             public String solution(String s) {

@@ -1,10 +1,9 @@
 package org.sparta.programmers.lv2;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
-public class TernaryReversal {
+public class TernaryReversal_40 {
     public static void main(String[] args) {
         class Solution {
             public int solution(int n) {
