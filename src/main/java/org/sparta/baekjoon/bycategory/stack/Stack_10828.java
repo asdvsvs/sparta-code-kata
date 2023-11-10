@@ -1,4 +1,4 @@
-package org.sparta.baekjoon;
+package org.sparta.baekjoon.bycategory.stack;
 
 import java.io.BufferedReader;
 import java.io.IOException;
