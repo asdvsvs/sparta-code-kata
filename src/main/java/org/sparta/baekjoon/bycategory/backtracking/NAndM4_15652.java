@@ -1,4 +1,4 @@
-package org.sparta.baekjoon;
+package org.sparta.baekjoon.bycategory.backtracking;
 
 import java.io.*;
 import java.util.StringTokenizer;

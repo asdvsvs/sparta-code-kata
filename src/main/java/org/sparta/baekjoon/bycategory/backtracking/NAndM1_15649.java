@@ -1,8 +1,6 @@
-package org.sparta.baekjoon;
+package org.sparta.baekjoon.bycategory.backtracking;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.StringTokenizer;
 
 public class NAndM1_15649 {
@@ -36,7 +34,7 @@ public class NAndM1_15649 {
             if (!numStr.contains(String.valueOf(i))) {
                 numStr += i;
                 function(n, m, length + 1, s + " " + i, numStr);
-                numStr=numStr.substring(0,numStr.length()-1);
+                numStr = numStr.substring(0, numStr.length() - 1);
             }
         }
     }
