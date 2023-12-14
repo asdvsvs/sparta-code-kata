@@ -8,8 +8,6 @@ public class ParkWalk {
         class Solution {
             public int[] solution(String[] park, String[] routes) {
 
-                int[] row = {0,0,1,-1};
-                int[] col = {1,-1,0,0};
                 int currentRow =0;
                 int currentCol =0;
 
