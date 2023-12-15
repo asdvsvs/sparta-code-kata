@@ -1,4 +1,4 @@
-package org.sparta.programmers;
+package org.sparta.programmers.lv4;
 
 import java.util.HashMap;
 import java.util.HashSet;
