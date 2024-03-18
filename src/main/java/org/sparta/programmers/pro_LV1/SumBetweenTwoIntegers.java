@@ -1,0 +1,23 @@
+package org.sparta.programmers.pro_LV1;
+
+//https://school.programmers.co.kr/learn/courses/30/lessons/12912
+public class SumBetweenTwoIntegers {
+    public static void main(String[] args) {
+        class Solution {
+            public long solution(int a, int b) {
+                long answer = 0;
+                if (a > b) {
+                    int temp = a;
+                    a = b;
+                    b = temp;
+                }
+
+                for (int i = a; i <= b; i++) {
+                    answer += i;
+                }
+
+                return answer;
+            }
+        }
+    }
+}
