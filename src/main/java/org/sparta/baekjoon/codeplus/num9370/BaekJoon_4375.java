@@ -1,4 +1,7 @@
 package org.sparta.baekjoon.codeplus.num9370;
+//EOF
+//https://gre-eny.tistory.com/307
+//해설
 //https://nahwasa.com/entry/%EC%9E%90%EB%B0%94-%EB%B0%B1%EC%A4%80-4375-1-java
 
 import java.io.*;
